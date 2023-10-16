@@ -1,4 +1,4 @@
-# LoanApprovalPredictionUsingML
+
 <h4>Loan Approval Prediction Using Machine Learning Model.</h4> <br>
 I trained the data on all models of Machine Learning and then choose the best fit model for prediction.
 <br>
