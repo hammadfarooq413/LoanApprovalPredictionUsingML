@@ -3,8 +3,8 @@
 I trained the data on all models of Machine Learning and then choose the best fit model for prediction.
 <br>
 <h5>Libraries used :</h5><br>
-1. itertools <br>
-2. Pandas <br>
-3. Numpy <br>
-4. Matplotlib <br>
-5. statsmodels
+1. Numpy <br>
+2. Pandas  <br>
+3. Matplotlib <br>
+4. Seaborn <br>
+5. SKlearn
